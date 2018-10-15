@@ -1,1 +1,1 @@
-# Lab1-RecyclerView
+# Lab2-RecyclerView
